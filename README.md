@@ -2,8 +2,6 @@
 
 A fully functional, professional-grade Expense Tracker built using the MERN (MongoDB, Express, React, Node.js) stack. This application allows users to track their income and expenses with a clean, intuitive interface and real-time data persistence.
 
-> [!NOTE]
-> This repository is a customized version maintained by **[Hussain Sulehri](https://github.com/hussainsulehri)**. It is based on a foundational design but has been updated and improved for personal use and showcase.
 
 ---
 
